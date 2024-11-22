@@ -12,4 +12,3 @@ if($db->connect_errno){
 }
     
 
-$db->set_charset("utf-8");
